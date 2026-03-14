@@ -29,4 +29,4 @@ The game challenges players to remember and repeat an increasing sequence of col
 **Ganesh Verma**
 
 ## Screenshot
-(SimonSaysGame.png)
+![Simon Says Game](SimonSaysGame.png)
