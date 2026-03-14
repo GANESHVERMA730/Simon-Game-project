@@ -4,7 +4,7 @@ A simple browser-based **Simon Says memory game** built using JavaScript.
 The game challenges players to remember and repeat an increasing sequence of colors.
 
 ## Live Demo
-(Add your deployed link here if available)
+https://simon-game-project-brown.vercel.app
 
 ## Features
 - Interactive color buttons
